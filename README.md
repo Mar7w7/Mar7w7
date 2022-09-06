@@ -2,27 +2,27 @@
 
 
   
- •Olá, meu nome é Carolina, estou aprendendo novas línguas e a programar.
+ *•Olá, meu nome é Carolina, estou aprendendo novas línguas e a programar.*
 
 
 
 
- 📞 Como entrar em contato comigo: andrade.vitoria@escola.pr.gov.br
-
-
-
-
-
-
- 😄 Pronomes: ela/dela ele/dele
+ 📞 **Como entrar em contato comigo:** andrade.vitoria@escola.pr.gov.br
 
 
 
 
 
- •Estudante Alura 
+
+ 😄 **Pronomes:** ela/dela ele/dele
 
 
 
 
- •Seja bem vindo (a)
+
+ *•Estudante Alura*
+
+
+
+
+ *•Seja bem vindo (a)*
