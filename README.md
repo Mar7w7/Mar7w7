@@ -1,16 +1,28 @@
-### Hi there 👋
+### Sobre mim
 
-<!--
-**Mar7w7/Mar7w7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+ •Olá, meu nome é Carolina, estou aprendendo novas línguas e a programar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ 📞 Como entrar em contato comigo: andrade.vitoria@escola.pr.gov.br
+
+
+
+
+
+
+ 😄 Pronomes: ela/dela ele/dele
+
+
+
+
+
+ •Estudante Alura 
+
+
+
+
+ •Seja bem vindo (a)
